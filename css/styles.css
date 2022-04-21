@@ -8,3 +8,15 @@
     background-color: #37333b;
 }
 
+.dark-bg{
+    /* background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../img/ba1.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('../img/ba1.jpg');
+    background-size: cover; */
+    background-color: #3c096f;
+
+}
+
+.btn-1{
+    background-color: greenyellow;
+}
+
