@@ -1,13 +1,26 @@
 # Trabajo integrador de Front-End
 
 Task:
-To make a replica of the model obtained.
+Make a replica of the model obtained.
+
+Components:
+-Navigation Bar *✓*
+-Hero Section *IN PROCESS*
+-Cards *X*
+-Letter w Float *X*
+-Form *X*
+-Footer *X*
 
 Technologies:
-Html,Css,Bootstrap
+-Html
+-Css
+-Bootstrap
 
 Student:
 Dirosa Tadeo
+
+Proyect Started:
+20/4/2022
 
 Deadline:
 1/5/2022
