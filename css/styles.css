@@ -1,22 +1,52 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-.navbar-color{
+.navbar-color {
     background-color: #37333b;
 }
 
-.dark-bg{
-    /* background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../img/ba1.jpg');
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('../img/ba1.jpg');
-    background-size: cover; */
-    background-color: #3c096f;
+.ctcolor {
+    color: chartreuse;
+}
+
+.dark-bg {
+    position: relative;
+    height: 100vh;
+    background-image: linear-gradient(rgba(33, 32, 35, 0.5), rgba(33, 32, 35, 0.5)), url(../img/ba1.jpg);
+    background-size: cover;
+}
+
+
+.box-intro {
+
+    position: absolute;
+    top: 400px;
+    right: 100px;
+    width: 600px;
+    height: 50px;
+
 
 }
 
-.btn-1{
-    background-color: greenyellow;
+.tx-title {
+    margin-left: 417px;
 }
 
+.tx-p{
+    padding-bottom: 10px;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: right;
+    font-weight: 400;
+
+}
+
+.bns {
+
+    margin-left: 227px;
+ 
+
+}
