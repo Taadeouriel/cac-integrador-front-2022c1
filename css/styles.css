@@ -71,7 +71,7 @@
     margin-left: 25px;
 }
 .card-3{
-    
+  
 }
 
 .btns{
@@ -82,13 +82,48 @@
     margin: inherit;
 }
 
-.txt{   
-    
+.con-1{
+    font-size: 12px;
+    padding-top: 15px;
 }
 
+.ign{   
+    padding-top: 15px;
+} 
 
+.col-6 {
+    text-align: left;
+    max-height: 50%;
+}
 
+#nm{
+    max-width: 70%;
+    margin-left: 200px;
+    margin-top: -40px;
+}
 
+#sn{
+    max-width: 70%;
+    margin-top: -40px;
+}
 
+#ff{
+    max-width: 68%;
+    margin-left: 216px;
+    margin-top: -4px;
+   
+}
+
+#rt{
+    margin-left: 216px;
+    margin-top: 5px;
+    color: #6b686f;
+}
+
+#bttn{
+    background-color: yellowgreen;
+    margin-left: 216px;
+    max-width: 68%;
+}
 
 

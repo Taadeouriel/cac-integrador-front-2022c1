@@ -77,7 +77,7 @@
       <div class="cardsection" style="text-align: center;">
         <p class="orators-1">CONOCE A LOS</p>
         <h2 class="orators-2">ORADORES</h2>
-      </div>  
+      </div>
       <div class="col-4">
         <div class="card-1" style="width: 22rem;">
           <img src="img/steve.jpg" class="card-img-top" alt="...">
@@ -126,24 +126,65 @@
     </div>
   </div>
 
-  <div class="container-fluid">
-    <div class="row ">
-        <div class="col hnl">
-            <img src="img\honolulu.jpg" alt="" width="100%">
-        </div>
-        <div class="col bg-dark txt">
-            <div class="container-fluid p-3 text-light">
-                <h4>Bs As - Octubre</h3>
-                <p>Buenos Aires es la provincia y localidad más grande del estado de Argentina, en los Estados Unidos. Honolulu es la más sureña de entre las principales ciudades estadounidenses. Aunque el nombre  de Honolulu se refiere al área urbana en la costa sureste de la isla de Oahu, la ciudad y el condado de Honolulu han formado una ciudad-condado consolidada que cubre toda la ciudad (aproximadamente 600km2 de superficie).</p>
-                <div class="container">
-                    <button type="button" class="btn btn-outline-light">Conocé más</button>
-                </div>
-            </div>
-        </div>
+<!-- 
+  <div class="row">
+    <div class="col-6"><img id="hnl"src="img/honolulu.jpg" alt="honolulu"></div>
+    <div class="col-6"><h4>Bs As - Octubre</h4>
+    <p>Buenos Aires es la provincia y localidad más grande del estado de Argentina, en los Estados Unidos. honolulu es la<br>más sureña de entre las principales ciudades estadounidense. Aunque el nombre de honolulu se refiere al área<br>urbana en la costa sureste de la isla de ohau, la ciudad y el condado honolulu han formado una ciudad-<br>condado consolidada que cubre toda la ciudad (aproximatamente 600 km² de superficie). 
+     </p>
+     <div class="container">
+      <button type="button" class="btn btn-outline-light">Conocé más</button>
     </div>
-</div>
+  </div>
+  </div> -->
 
 
+
+    <div class="row ">
+      <div class="col-6">
+        <img src="img\honolulu.jpg" alt="" width="100%">
+      </div>
+      <div class="col-6 p-3 bg-dark text-light" >
+          <h4>Bs As - Octubre</h3>
+            <p class="text-light">Buenos Aires es la provincia y localidad más grande del estado de Argentina, en los Estados Unidos.
+              Honolulu es la más sureña de entre las principales ciudades estadounidenses. Aunque el nombre de Honolulu
+              se refiere al área urbana en la costa sureste de la isla de Oahu, la ciudad y el condado de Honolulu han
+              formado una ciudad-condado consolidada que cubre toda la ciudad (aproximadamente 600km2 de superficie).
+            </p>
+            <div class="container">
+              <button type="button" class="btn btn-outline-light">Conocé más</button>
+            </div>
+      </div>
+    </div>
+   
+
+
+
+    <div class="container">
+      <div class="row">
+        <div class="cardsection" style="text-align: center;">
+          <p class="con-1">CONVIÉRTETE EN UN</p>
+          <h2 class="orators-2">ORADOR</h2>
+          <p class="ign">Anótate como orador para dar una <abbr title="">charla ignite</abbr>. Cuéntanos de qué quieres hablar!</p>
+        </div>
+      <div class="container">
+        <div class="row p-3">
+          <div class="col">
+            <input type="text" class="form-control" id="nm" placeholder="Nombre" aria-label="First name">
+          </div>
+          <div class="col">
+            <input type="text" class="form-control" id="sn" placeholder="Apellido" aria-label="Last name">
+          </div>
+        </div>
+          <div class="form-floating">
+            <textarea class="form-control" id="ff" placeholder="Sobre qué quieres hablar!" style="height: 100px;color: #6b686f;">Sobre qué quieres hablar!</textarea>
+          </div>
+          <p id="rt">Recuerda incluir un título para tu charla</p>
+          <div class="d-grid">
+              <button class="btn text-light" id="bttn" type="button">Enviar</button>
+          </div>
+      </div>
+    </div>
   
 
   <!-- JavaScript Bundle with Popper -->

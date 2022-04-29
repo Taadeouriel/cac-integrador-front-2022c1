@@ -8,7 +8,7 @@ Components:
 -Hero Section (✓)
 -Cards (✓)
 -Letter w Float (✓)
--Form (X)
+-Form (✓)
 -Footer (X)
 ----------------------------------------
 Technologies:
