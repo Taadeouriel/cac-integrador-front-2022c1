@@ -7,9 +7,11 @@
 .navbar-color {
     background-color: #37333b;
 }
-
+#navi{
+    margin-right: 78px;
+}
 .ctcolor {
-    color: chartreuse;
+    color: rgb(82, 166, 65);
 }
 
 .dark-bg {
@@ -19,6 +21,9 @@
     background-size: cover;
 }
 
+#btn{
+    background-color: rgb(38, 176, 72);
+}
 
 .box-intro {
 
@@ -68,10 +73,11 @@
     margin-left: 90px;
 }
 .card-2{
-    margin-left: 25px;
+    margin-left: 130px;
 }
+
 .card-3{
-  
+    margin-left: 170px;
 }
 
 .btns{
