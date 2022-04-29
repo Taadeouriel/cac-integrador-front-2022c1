@@ -51,19 +51,42 @@
 
 }
 
+.cardsection{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 .orators-1{
     font-size: 14px;
     padding-top: 15px;
 }
 
-.card-1{
-margin-left: 240px;
-
+.orators-2{
+    line-height: 5px;  
 }
 
+.card-1{    
+    margin-left: 90px;
+}
+.card-2{
+    margin-left: 25px;
+}
 .card-3{
-    margin-right: 240px;
+    
 }
+
+.btns{
+    margin-bottom: 15px;
+}
+
+.hnl{
+    margin: inherit;
+}
+
+.txt{   
+    
+}
+
+
 
 
 

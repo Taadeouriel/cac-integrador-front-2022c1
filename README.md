@@ -6,8 +6,8 @@ Make a replica of the model obtained.
 Components:
 -Navigation Bar (✓)
 -Hero Section (✓)
--Cards (IN PROCESS)
--Letter w Float (X)
+-Cards (✓)
+-Letter w Float (✓)
 -Form (X)
 -Footer (X)
 ----------------------------------------
