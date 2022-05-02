@@ -143,17 +143,18 @@
 }
 
 #Cn {
-    color: #fff;    
+    color: #fff;  
+    margin-top: 10%; 
 }
 
 #Pr{
     color: #fff;
-     
+    margin-top: 17%; 
 }
 
 #Cf{
     color: #fff;
-       
+    margin-top: 10%;  
 }
 
 #Tc {
@@ -164,11 +165,12 @@
 
 #Pv {
     color: #fff; 
-   
+    margin-top: 12%; 
 }
 
 #Es{
     color: #fff; 
-}
+    margin-top: 10%; 
+}  
 
  
