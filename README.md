@@ -9,7 +9,7 @@ Components:
 -Cards (✓)
 -Letter w Float (✓)
 -Form (✓)
--Footer (X)
+-Footer (✓)
 ----------------------------------------
 Technologies:
 -Html
