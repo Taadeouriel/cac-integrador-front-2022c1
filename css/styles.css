@@ -84,9 +84,6 @@
     margin-bottom: 15px;
 }
 
-.hnl{
-    margin: inherit;
-}
 
 .con-1{
     font-size: 12px;
@@ -132,4 +129,47 @@
     max-width: 68%;
 }
 
+.ftnav{
+    background-image: linear-gradient(to right, #1c3846 , #1e516f);
+   color: #fff; 
+   margin-top: 2%;
+}
+.elft{
+    margin-right: 27%;
+}
 
+ #Qs {
+    color: #fff;
+}
+
+#Cn {
+    color: #fff;    
+}
+
+#Pr{
+    color: #fff;
+     
+}
+
+#Cf{
+    color: #fff;
+       
+}
+
+#Tc {
+    color: #fff; 
+    
+    
+}
+
+#Pv {
+    color: #fff; 
+   
+}
+
+#Es{
+    color: #fff; 
+}
+
+
+ 
